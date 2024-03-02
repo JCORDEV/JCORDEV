@@ -1,11 +1,11 @@
-<h1><code><img src="https://media.giphy.com/media/oI7PMKfaSUbjPv4VAw/giphy.gif?cid=ecf05e47u421i4nj3am4861rh6rihtruq2pqeq1lct3emw0q&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="32"/>Hola! Me alegro de verte.<img src="https://media.giphy.com/media/aotWWaGrXuNuo/giphy.gif" width="35"/></code></h1>
+<h1><img src="https://media.giphy.com/media/oI7PMKfaSUbjPv4VAw/giphy.gif?cid=ecf05e47u421i4nj3am4861rh6rihtruq2pqeq1lct3emw0q&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="32"/><code>Hola! Me alegro de verte.</code><img src="https://media.giphy.com/media/aotWWaGrXuNuo/giphy.gif" width="35"/></h1>
 
 <a href="https://www.youtube.com/@windstudio_"><img src="img/BannerYTWindstudio.jpg"></a>
 
-<code style="font-size: 20px"><strong>¡Bienvenido a mi perfil!</strong></code><br>
+<code style="font-size: 30px"><strong>¡Bienvenido a mi perfil!</strong></code><br>
 Soy <strong>Juan Camilo R. Coral</strong>, Ingeniero de sistemas y creador de contenido educativo, mi objetivo es hacer que la programación sea accesible para todos. Transformo conceptos complejos en tutoriales prácticos y videos entretenidos por medio del canal <a href="https://www.youtube.com/@windstudio_"><code><strong>WindStudio<img src="https://media.giphy.com/media/pmeVDQwBa8IKeuIBdh/giphy.gif?cid=ecf05e47l4okulphjprwt9engzw7vgudovp053eotrc2xhbz&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20"/></strong></code></a>, comparto trucos, consejos y proyectos para ayudarte a dominar las habilidades necesarias en este emocionante campo.
 
-<h2><code>Tecnologías<img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=790b7611pqa8sf90rt0ng8gbhlc0tc401ijnvdbu40qon32u&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40"/></code></h2>
+<h2><code>Tecnologías</code><img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=790b7611pqa8sf90rt0ng8gbhlc0tc401ijnvdbu40qon32u&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40"/></h2>
 <p>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
@@ -26,7 +26,7 @@ Soy <strong>Juan Camilo R. Coral</strong>, Ingeniero de sistemas y creador de co
 <img src="https://img.shields.io/badge/Smarty_Template-FFE614.svg?style=flat-square&logo=smart&logoColor=white" alt="Smarty Template" />
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="git" />
 </p>
-<h2><code>Curso Básico de PHP SMARTY TEMPLATE<img src="https://media.giphy.com/media/s8PgxImcpD08lGmGWJ/giphy.gif?cid=790b76116skon9yg4p1bua0hrrszc2thu1vbi75ufo07giys&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40"/></code></h2>
+<h2><code>Curso Básico de PHP SMARTY TEMPLATE</code><img src="https://media.giphy.com/media/s8PgxImcpD08lGmGWJ/giphy.gif?cid=790b76116skon9yg4p1bua0hrrszc2thu1vbi75ufo07giys&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40"/></h2>
 
 <table style="width:100%">
 <tr>
